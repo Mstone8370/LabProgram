@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/poi-bin-4.1.0-20190412/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/xmlbeans-bin-3.1.0/xmlbeans-3.1.0/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gim54_d3etcc4/Downloads/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
